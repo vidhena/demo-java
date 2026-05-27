@@ -1,5 +1,5 @@
 
-public class Main {
+public class demo {
     
     // The main method is the execution entry point for your application
     public static void main(String[] args) {
