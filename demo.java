@@ -5,6 +5,6 @@ public class Main {
     public static void main(String[] args) {
         
         // Prints the string text directly to your console
-        System.out.println("Hello, World!");
+        System.out.println("Hello");
     }
 }
