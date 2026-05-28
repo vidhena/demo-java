@@ -1,4 +1,4 @@
-// Save this file exactly as Calculator.java
+
 import java.util.Scanner;
 
 public class demo1 {
